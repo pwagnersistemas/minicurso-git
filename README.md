@@ -1,2 +1,2 @@
 # minicurso-git
-fasendo teste
+fazendo teste
